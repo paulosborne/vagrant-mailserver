@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HOSTNAME="mail.zsoc.com"
-DOMAIN="zsoc.com"
+HOSTNAME=""
+DOMAIN=""
 
 # SPAMASSASSIN CONFIGURATION
 SA_USER="debian-spamd"
